@@ -1,7 +1,3 @@
-# Customer_Churn_Prediction
-End-to-end customer churn analytics project using Power BI dashboards and XGBoost ML model. Predicts customer churn probability with 89.24% accuracy. Includes single and batch prediction via Streamlit web app.
-# 🔍 Customer Churn Prediction Project
-
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3.2.0-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.45.1-red)
@@ -89,7 +85,7 @@ probability for individual customers or upload a full CSV for batch scoring.
 ---
 
 ## 🚀 Live App
-👉 **[Launch Churn Prediction App]()**
+👉 **[Launch Churn Prediction App](https://customerchurnprediction-puhmgfxlw7fyg52we4jamp.streamlit.app/)**
 
 ### App Features
 - **Single Customer Prediction** — Enter customer details 
@@ -173,7 +169,7 @@ streamlit run churn_app.py
 ---
 
 ## 👤 Author
-**Your Name**
+**Oyewole Jeremiah Oladayo**
 - LinkedIn: [https://www.linkedin.com/in/oyewole-jeremiah-9711a3231/]
 - Email: [oyewolejerry2016@gmail.com]
 
