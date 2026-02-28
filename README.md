@@ -89,7 +89,7 @@ probability for individual customers or upload a full CSV for batch scoring.
 ---
 
 ## 🚀 Live App
-👉 **[Launch Churn Prediction App](YOUR_STREAMLIT_URL_HERE)**
+👉 **[Launch Churn Prediction App]()**
 
 ### App Features
 - **Single Customer Prediction** — Enter customer details 
@@ -134,7 +134,7 @@ customer-churn-prediction/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOURUSERNAME/customer-churn-prediction.git
+git clone https://github.com/oyewolejerry2016/customer-churn-prediction.git
 cd customer-churn-prediction
 ```
 
@@ -174,8 +174,8 @@ streamlit run churn_app.py
 
 ## 👤 Author
 **Your Name**
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- LinkedIn: [https://www.linkedin.com/in/oyewole-jeremiah-9711a3231/]
+- Email: [oyewolejerry2016@gmail.com]
 
 ---
 
