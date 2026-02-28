@@ -1,3 +1,5 @@
+# 🔍 Customer Churn Prediction Project
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3.2.0-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.45.1-red)
